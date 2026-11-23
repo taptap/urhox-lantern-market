@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<node>
+  <attribute name="Name" value="Worker" />
+  <node>
+    <attribute name="Name" value="WorkerChassis" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Actors/Meshes/WorkerChassis.mdl" />
+      <attribute name="Material" value="Material;NightMarket/Actors/Materials/Finish.xml" />
+      <attribute name="Cast Shadows" value="true" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="WorkerJacket" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Actors/Meshes/WorkerJacket.mdl" />
+      <attribute name="Material" value="Material;NightMarket/Actors/Materials/Canvas.xml;NightMarket/Actors/Materials/Finish.xml" />
+      <attribute name="Cast Shadows" value="true" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="WorkerHands" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Actors/Meshes/WorkerHands.mdl" />
+      <attribute name="Material" value="Material;NightMarket/Actors/Materials/Finish.xml" />
+      <attribute name="Cast Shadows" value="true" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="WorkerMonitor" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Actors/Meshes/WorkerMonitor.mdl" />
+      <attribute name="Material" value="Material;NightMarket/Actors/Materials/Finish.xml;NightMarket/Actors/Materials/Phosphor.xml" />
+      <attribute name="Cast Shadows" value="true" />
+    </component>
+  </node>
+</node>

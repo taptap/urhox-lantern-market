@@ -1,0 +1,7 @@
+<material>
+  <surfaceshader name="Shaders/BLGL/MarketLamp.shader" />
+  <surfacetexture name="ink" texture="NightMarket/Signs/pharmacy.png" />
+  <parameter name="stock" value="0.863157 1 0.799103 1" />
+  <parameter name="output_gain" value="3.1" />
+  <parameter name="power" value="1.0" />
+</material>

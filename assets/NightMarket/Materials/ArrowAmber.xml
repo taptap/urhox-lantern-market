@@ -1,0 +1,7 @@
+<material>
+  <surfaceshader name="Shaders/BLGL/MarketNeon.shader" />
+  <parameter name="gas" value="1 0.246201 0.0343398 1" />
+  <parameter name="output_gain" value="1.56" />
+  <parameter name="cathode" value="1.0" />
+  <parameter name="power" value="1.0" />
+</material>

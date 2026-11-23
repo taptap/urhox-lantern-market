@@ -1,0 +1,8 @@
+<material>
+  <surfaceshader name="Shaders/BLGL/MarketSurface.shader" />
+  <surfacetexture name="grain" texture="NightMarket/Stock/enamel.jpg" />
+  <surfacetexture name="relief" texture="NightMarket/Stock/enamel-finish.png" />
+  <parameter name="tint" value="0.0368895 0.141263 0.135633 1" />
+  <parameter name="finish" value="1.12 0.4 0.75 0" />
+  <parameter name="damage" value="0.73" />
+</material>

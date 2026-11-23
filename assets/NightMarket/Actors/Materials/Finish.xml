@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<material>
+  <surfaceshader name="NightMarket/Actors/Materials/Finish.shader" />
+</material>

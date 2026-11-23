@@ -1,0 +1,8 @@
+<material>
+  <surfaceshader name="Shaders/BLGL/MarketSurface.shader" />
+  <surfacetexture name="grain" texture="NightMarket/Stock/weave.jpg" />
+  <surfacetexture name="relief" texture="NightMarket/Stock/weave-finish.png" />
+  <parameter name="tint" value="0.0343398 0.0343398 0.0423114 1" />
+  <parameter name="finish" value="1.7 0.06 1 0" />
+  <parameter name="damage" value="0.0" />
+</material>

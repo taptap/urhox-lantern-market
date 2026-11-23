@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<node>
+  <attribute name="Name" value="Cat" />
+  <node>
+    <attribute name="Name" value="CatBody" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Actors/Meshes/CatBody.mdl" />
+      <attribute name="Material" value="Material;NightMarket/Actors/Materials/Coat.xml" />
+      <attribute name="Cast Shadows" value="true" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="CatHeadDetails" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Actors/Meshes/CatHeadDetails.mdl" />
+      <attribute name="Material" value="Material;NightMarket/Actors/Materials/Coat.xml;NightMarket/Actors/Materials/Finish.xml" />
+      <attribute name="Cast Shadows" value="true" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="CatWebbing" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Actors/Meshes/CatWebbing.mdl" />
+      <attribute name="Material" value="Material;NightMarket/Actors/Materials/Canvas.xml;NightMarket/Actors/Materials/Finish.xml" />
+      <attribute name="Cast Shadows" value="true" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="CatFieldPack" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Actors/Meshes/CatFieldPack.mdl" />
+      <attribute name="Material" value="Material;NightMarket/Actors/Materials/Canvas.xml;NightMarket/Actors/Materials/Finish.xml" />
+      <attribute name="Cast Shadows" value="true" />
+    </component>
+  </node>
+</node>

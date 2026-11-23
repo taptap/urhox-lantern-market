@@ -1,0 +1,8 @@
+<material>
+  <surfaceshader name="Shaders/BLGL/MarketSurface.shader" />
+  <surfacetexture name="grain" texture="NightMarket/Stock/tile.jpg" />
+  <surfacetexture name="relief" texture="NightMarket/Stock/tile-finish.png" />
+  <parameter name="tint" value="0.371238 0.327778 0.234551 1" />
+  <parameter name="finish" value="0.56 0.06 0.98 0" />
+  <parameter name="damage" value="0.0" />
+</material>

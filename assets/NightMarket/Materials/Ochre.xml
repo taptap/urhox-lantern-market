@@ -1,0 +1,8 @@
+<material>
+  <surfaceshader name="Shaders/BLGL/MarketSurface.shader" />
+  <surfacetexture name="grain" texture="NightMarket/Stock/plaster.jpg" />
+  <surfacetexture name="relief" texture="NightMarket/Stock/plaster-finish.png" />
+  <parameter name="tint" value="0.423268 0.283149 0.111932 1" />
+  <parameter name="finish" value="0.5 0 1 0" />
+  <parameter name="damage" value="0.0" />
+</material>

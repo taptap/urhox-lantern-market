@@ -1,0 +1,5 @@
+<material>
+  <surfaceshader name="Shaders/BLGL/MarketPaper.shader" />
+  <surfacetexture name="ink" texture="NightMarket/Signs/ricepaper.png" />
+  <surfacetexture name="fibre" texture="NightMarket/Stock/weave.jpg" />
+</material>

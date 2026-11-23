@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<material>
+  <surfaceshader name="NightMarket/Actors/Materials/Fibre.shader" />
+  <surfacetexture name="yarn" texture="NightMarket/Actors/Materials/DuckCloth.png" />
+  <parameter name="coat" value="0" />
+</material>

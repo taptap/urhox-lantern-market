@@ -1,0 +1,1196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<node>
+  <attribute name="Name" value="Foundry lane" />
+  <node>
+    <attribute name="Name" value="Night practicals" />
+    <node>
+      <attribute name="Name" value="Paper burner 1" />
+      <attribute name="Position" value="-5.2065 0.563 6.961" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .70 .25 1" />
+        <attribute name="Brightness Multiplier" value="0.53" />
+        <attribute name="Range" value="0.405" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Paper burner 2" />
+      <attribute name="Position" value="-5.2065 0.736 6.961" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .70 .25 1" />
+        <attribute name="Brightness Multiplier" value="0.53" />
+        <attribute name="Range" value="0.405" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Paper burner 3" />
+      <attribute name="Position" value="-5.2065 0.909 6.961" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .70 .25 1" />
+        <attribute name="Brightness Multiplier" value="0.53" />
+        <attribute name="Range" value="0.405" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Lamp repair fluorescent" />
+      <attribute name="Position" value="-3.9577012048971056 2.55 10.960572816491718" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value=".51 .94 .84 1" />
+        <attribute name="Brightness Multiplier" value="2.4" />
+        <attribute name="Range" value="2.65" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Repair reflector spill" />
+      <attribute name="Position" value="-4.071156989347358 2.54 12.044698171316877" />
+      <component type="Light">
+        <attribute name="Light Type" value="Spot" />
+        <attribute name="Color" value=".53 .93 .82 1" />
+        <attribute name="Brightness Multiplier" value="2.2" />
+        <attribute name="Range" value="3.1" />
+        <attribute name="Cast Shadows" value="false" />
+        <attribute name="Spot FOV" value="128" />
+        <attribute name="Inner Cone Angle" value="24.32" />
+      </component>
+      <attribute name="Rotation" value="0.705318 0.644097 -0.296085 0" />
+    </node>
+    <node>
+      <attribute name="Name" value="Boiler roof skylight" />
+      <attribute name="Position" value="-2.4452079199933343 9.15 11.112770264305404" />
+      <component type="Light">
+        <attribute name="Light Type" value="Spot" />
+        <attribute name="Color" value=".43 .61 .84 1" />
+        <attribute name="Brightness Multiplier" value="108" />
+        <attribute name="Range" value="6.9" />
+        <attribute name="Cast Shadows" value="false" />
+        <attribute name="Spot FOV" value="100" />
+        <attribute name="Inner Cone Angle" value="19.0" />
+      </component>
+      <attribute name="Rotation" value="0.734248 0.578614 -0.355086 0" />
+    </node>
+    <node>
+      <attribute name="Name" value="Balcony bulb 1" />
+      <attribute name="Position" value="-4.88 4.235 7.085" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .34 .075 1" />
+        <attribute name="Brightness Multiplier" value="0.52" />
+        <attribute name="Range" value="0.84" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Balcony bulb 2" />
+      <attribute name="Position" value="-4.88 4.235 7.575" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .34 .075 1" />
+        <attribute name="Brightness Multiplier" value="0.52" />
+        <attribute name="Range" value="0.84" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Balcony bulb 3" />
+      <attribute name="Position" value="-4.88 4.235 8.065" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .34 .075 1" />
+        <attribute name="Brightness Multiplier" value="0.52" />
+        <attribute name="Range" value="0.84" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Balcony bulb 4" />
+      <attribute name="Position" value="-4.88 4.235 8.555" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .34 .075 1" />
+        <attribute name="Brightness Multiplier" value="0.52" />
+        <attribute name="Range" value="0.84" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Herbalist softbox" />
+      <attribute name="Position" value="-5.04 2.33 4.98" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value=".72 1 .76 1" />
+        <attribute name="Brightness Multiplier" value="4.4" />
+        <attribute name="Range" value="5.9" />
+        <attribute name="Cast Shadows" value="true" />
+        <attribute name="Normal Offset" value="0.00025" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Herbalist tube" />
+      <attribute name="Position" value="-5.12 1.77 5.45" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value=".62 1 .85 1" />
+        <attribute name="Brightness Multiplier" value="2.3" />
+        <attribute name="Range" value="3.1" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Light from the dispensary window" />
+      <attribute name="Position" value="-5.01 1.82 5.1" />
+      <component type="Light">
+        <attribute name="Light Type" value="Spot" />
+        <attribute name="Color" value=".87 .85 .52 1" />
+        <attribute name="Brightness Multiplier" value="5.6" />
+        <attribute name="Range" value="9.9" />
+        <attribute name="Cast Shadows" value="true" />
+        <attribute name="Spot FOV" value="86" />
+        <attribute name="Inner Cone Angle" value="16.34" />
+      </component>
+      <attribute name="Rotation" value="0.341787 0.606283 0.718055 0" />
+    </node>
+    <node>
+      <attribute name="Name" value="Tea advert" />
+      <attribute name="Position" value="-5.04 3.75 3.82" />
+      <component type="Light">
+        <attribute name="Light Type" value="Spot" />
+        <attribute name="Color" value="1 .34 .07 1" />
+        <attribute name="Brightness Multiplier" value="4.2" />
+        <attribute name="Range" value="3.8" />
+        <attribute name="Cast Shadows" value="false" />
+        <attribute name="Spot FOV" value="118" />
+        <attribute name="Inner Cone Angle" value="22.42" />
+      </component>
+      <attribute name="Rotation" value="0.685352 0.397799 0.609958 0" />
+    </node>
+    <node>
+      <attribute name="Name" value="Menu bulb" />
+      <attribute name="Position" value="-4.36 2.76 3.19" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .66 .28 1" />
+        <attribute name="Brightness Multiplier" value="2.7" />
+        <attribute name="Range" value="3.4" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Workshop neon" />
+      <attribute name="Position" value="-4.88 1.82 8.99" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .012 .004 1" />
+        <attribute name="Brightness Multiplier" value="6.5" />
+        <attribute name="Range" value="5.5" />
+        <attribute name="Cast Shadows" value="true" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Workshop canopy spill" />
+      <attribute name="Position" value="-5.3 2.06 8.44" />
+      <component type="Light">
+        <attribute name="Light Type" value="Spot" />
+        <attribute name="Color" value="1 .017 .007 1" />
+        <attribute name="Brightness Multiplier" value="6.3" />
+        <attribute name="Range" value="4.1" />
+        <attribute name="Cast Shadows" value="false" />
+        <attribute name="Spot FOV" value="89" />
+        <attribute name="Inner Cone Angle" value="16.91" />
+      </component>
+      <attribute name="Rotation" value="0.612237 0.762724 0.208373 0" />
+    </node>
+    <node>
+      <attribute name="Name" value="Mast opal strip" />
+      <attribute name="Position" value="-1.91 1.14 0.91" />
+      <component type="Light">
+        <attribute name="Light Type" value="Spot" />
+        <attribute name="Color" value=".22 .35 .72 1" />
+        <attribute name="Brightness Multiplier" value="0.57" />
+        <attribute name="Range" value="3.1" />
+        <attribute name="Cast Shadows" value="false" />
+        <attribute name="Spot FOV" value="107" />
+        <attribute name="Inner Cone Angle" value="20.330000000000002" />
+      </component>
+      <attribute name="Rotation" value="0.892187 0.278919 0.355255 0" />
+    </node>
+    <node>
+      <attribute name="Name" value="Noodle enamel bounce" />
+      <attribute name="Position" value="-5.11 1.92 9.48" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .016 .003 1" />
+        <attribute name="Brightness Multiplier" value="0.8" />
+        <attribute name="Range" value="1.3" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Noodle sign spill" />
+      <attribute name="Position" value="-4.46 1.78 9.22" />
+      <component type="Light">
+        <attribute name="Light Type" value="Spot" />
+        <attribute name="Color" value="1 .019 .008 1" />
+        <attribute name="Brightness Multiplier" value="16.8" />
+        <attribute name="Range" value="14.2" />
+        <attribute name="Cast Shadows" value="true" />
+        <attribute name="Spot FOV" value="83" />
+        <attribute name="Inner Cone Angle" value="15.77" />
+      </component>
+      <attribute name="Rotation" value="0.197602 0.6223 0.757428 0" />
+    </node>
+    <node>
+      <attribute name="Name" value="Arrow transformers" />
+      <attribute name="Position" value="-4.45 3.77 9.06" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .12 .018 1" />
+        <attribute name="Brightness Multiplier" value="0.9" />
+        <attribute name="Range" value="2.5" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Round tea sign" />
+      <attribute name="Position" value="0.27 2.02 3.13" />
+      <component type="Light">
+        <attribute name="Light Type" value="Spot" />
+        <attribute name="Color" value="1 .32 .065 1" />
+        <attribute name="Brightness Multiplier" value="1.25" />
+        <attribute name="Range" value="2.4" />
+        <attribute name="Cast Shadows" value="false" />
+        <attribute name="Spot FOV" value="137" />
+        <attribute name="Inner Cone Angle" value="26.03" />
+      </component>
+      <attribute name="Rotation" value="0.493258 0.801715 -0.337564 0" />
+    </node>
+    <node>
+      <attribute name="Name" value="Cyan barber pole" />
+      <attribute name="Position" value="0.62 2.46 6.25" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value=".028 .64 .82 1" />
+        <attribute name="Brightness Multiplier" value="0.76" />
+        <attribute name="Range" value="2.36" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Cinema spill" />
+      <attribute name="Position" value="-2.14 3.56 13.72" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value=".15 .44 .95 1" />
+        <attribute name="Brightness Multiplier" value="1.85" />
+        <attribute name="Range" value="4.8" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Passage sodium" />
+      <attribute name="Position" value="-0.81 2.16 14.42" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .24 .055 1" />
+        <attribute name="Brightness Multiplier" value="5.1" />
+        <attribute name="Range" value="4.8" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Court utility grille" />
+      <attribute name="Position" value="-1.9 2.43 17.88" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value=".38 .69 .70 1" />
+        <attribute name="Brightness Multiplier" value="4.0" />
+        <attribute name="Range" value="4.6" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Tea bar shelf" />
+      <attribute name="Position" value="2.55 1.9 7.9" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .37 .09 1" />
+        <attribute name="Brightness Multiplier" value="1.62" />
+        <attribute name="Range" value="3.1" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Moonlit roof opening" />
+      <attribute name="Position" value="-3.32 8.12 11.15" />
+      <component type="Light">
+        <attribute name="Light Type" value="Spot" />
+        <attribute name="Color" value=".40 .60 .85 1" />
+        <attribute name="Brightness Multiplier" value="18" />
+        <attribute name="Range" value="11.7" />
+        <attribute name="Cast Shadows" value="false" />
+        <attribute name="Spot FOV" value="111" />
+        <attribute name="Inner Cone Angle" value="21.09" />
+      </component>
+      <attribute name="Rotation" value="0.936419 0.341118 0.0822118 0" />
+    </node>
+    <node>
+      <attribute name="Name" value="Upper landing sconce" />
+      <attribute name="Position" value="-0.31 6.94 13.87" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .39 .13 1" />
+        <attribute name="Brightness Multiplier" value="1.65" />
+        <attribute name="Range" value="3.8" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Passage exit" />
+      <attribute name="Position" value="-2.19 2.31 19.45" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value=".63 .79 .41 1" />
+        <attribute name="Brightness Multiplier" value="4.8" />
+        <attribute name="Range" value="4.2" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Roof clerestory" />
+      <attribute name="Position" value="-5.28 5.1 7.54" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .37 .075 1" />
+        <attribute name="Brightness Multiplier" value="2.2" />
+        <attribute name="Range" value="3.0" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Sign behind camera" />
+      <attribute name="Position" value="-2.9 2.24 -1.7" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value=".56 .17 .29 1" />
+        <attribute name="Brightness Multiplier" value="1.8" />
+        <attribute name="Range" value="6" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Tea room interior" />
+      <attribute name="Position" value="0.96 1.56 8.01" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .28 .09 1" />
+        <attribute name="Brightness Multiplier" value="2.36" />
+        <attribute name="Range" value="4.4" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Awning tungsten 0" />
+      <attribute name="Position" value="0.04 2.56 4.36" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .45 .13 1" />
+        <attribute name="Brightness Multiplier" value="0.63" />
+        <attribute name="Range" value="2.5" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Awning tungsten 1" />
+      <attribute name="Position" value="0.04 2.56 5.4" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .45 .13 1" />
+        <attribute name="Brightness Multiplier" value="0.63" />
+        <attribute name="Range" value="2.5" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Awning tungsten 2" />
+      <attribute name="Position" value="0.04 2.56 6.44" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .45 .13 1" />
+        <attribute name="Brightness Multiplier" value="0.63" />
+        <attribute name="Range" value="2.5" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Awning tungsten 3" />
+      <attribute name="Position" value="0.04 2.56 7.48" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .45 .13 1" />
+        <attribute name="Brightness Multiplier" value="0.63" />
+        <attribute name="Range" value="2.5" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Festival bulb 0" />
+      <attribute name="Position" value="-4.53 3.72 7.87" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .14 .021 1" />
+        <attribute name="Brightness Multiplier" value="0.34" />
+        <attribute name="Range" value="1.7" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Festival bulb 1" />
+      <attribute name="Position" value="-3.2300000000000004 3.49 7.51" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .14 .021 1" />
+        <attribute name="Brightness Multiplier" value="0.34" />
+        <attribute name="Range" value="1.7" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Festival bulb 2" />
+      <attribute name="Position" value="-1.9300000000000002 3.2600000000000002 7.15" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .14 .021 1" />
+        <attribute name="Brightness Multiplier" value="0.34" />
+        <attribute name="Range" value="1.7" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+    <node>
+      <attribute name="Name" value="Festival bulb 3" />
+      <attribute name="Position" value="-0.6299999999999999 3.0300000000000002 6.79" />
+      <component type="Light">
+        <attribute name="Light Type" value="Point" />
+        <attribute name="Color" value="1 .14 .021 1" />
+        <attribute name="Brightness Multiplier" value="0.34" />
+        <attribute name="Range" value="1.7" />
+        <attribute name="Cast Shadows" value="false" />
+      </component>
+    </node>
+  </node>
+  <node>
+    <attribute name="Name" value="Street and worn parking bays" />
+    <attribute name="Position" value="0 0 0" />
+    <attribute name="Rotation" value="1 0 -0 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Street and worn parking bays.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Tarmac.xml;NightMarket/Materials/Stripe.xml;NightMarket/Materials/Paper.xml;NightMarket/Materials/Wood.xml;NightMarket/Materials/Rubber.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="West sidewalk" />
+    <attribute name="Position" value="-4.46 0 -6.5" />
+    <attribute name="Rotation" value="1 0 -0 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/West sidewalk.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Walk.xml;NightMarket/Materials/Curb.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="East sidewalk" />
+    <attribute name="Position" value="-0.12 0 2.96" />
+    <attribute name="Rotation" value="1 0 -0 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/East sidewalk.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Walk.xml;NightMarket/Materials/Curb.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Storm drains" />
+    <attribute name="Position" value="-4.27 0 0" />
+    <attribute name="Rotation" value="1 0 -0 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Storm drains.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Iron.xml;NightMarket/Materials/Patina.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Herbalist block" />
+    <attribute name="Position" value="-5.54 0 3.08" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Herbalist block.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Ochre.xml;NightMarket/Materials/Tile.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Plaster.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/IvoryEnamel.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Machine shop" />
+    <attribute name="Position" value="-5.58 0 8" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Machine shop.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Oxide.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Coalwash.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Wood.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Zinc.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Boiler house" />
+    <attribute name="Position" value="-5.69 0 12.2" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Boiler house.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Soot.xml;NightMarket/Materials/Tile.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="West return" />
+    <attribute name="Position" value="-5.62 0 -3.86" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/West return.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Plaster.xml;NightMarket/Materials/Tile.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Tea rooms" />
+    <attribute name="Position" value="1.14 0 6.9" />
+    <attribute name="Rotation" value="0.707107 0 0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Tea rooms.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Ochre.xml;NightMarket/Materials/Oxide.xml;NightMarket/Materials/MossTile.xml;NightMarket/Materials/Walk.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/Glass.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="East tenements" />
+    <attribute name="Position" value="1.23 0 12.7" />
+    <attribute name="Rotation" value="0.707107 0 0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/East tenements.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Plaster.xml;NightMarket/Materials/MossTile.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Covered passage and tenement" />
+    <attribute name="Position" value="-2.19 0 14.6" />
+    <attribute name="Rotation" value="0.989016 0 -0.147809 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Covered passage and tenement.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Soot.xml;NightMarket/Materials/Oxide.xml;NightMarket/Materials/Plaster.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Canvas.xml;NightMarket/Materials/CoralTube.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/VioletTube.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Far service court" />
+    <attribute name="Position" value="-1.9 0 21.2" />
+    <attribute name="Rotation" value="0.996195 0 -0.0871557 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Far service court.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Oxide.xml;NightMarket/Materials/MossTile.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Pottery.xml;NightMarket/Materials/Foliage.xml;NightMarket/Materials/LeafTip.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Court service canopy" />
+    <attribute name="Position" value="-1.9 2.88 21" />
+    <attribute name="Rotation" value="0.996195 0 -0.0871557 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Court service canopy.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Teal.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/HoneyTube.xml;NightMarket/Materials/MilkTube.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Court rear wing 0" />
+    <attribute name="Position" value="-5.1 0 17.5" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Court rear wing 0.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Plaster.xml;NightMarket/Materials/Tile.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Court rear wing 1" />
+    <attribute name="Position" value="-5.8 0 20.5" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Court rear wing 1.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Plaster.xml;NightMarket/Materials/Tile.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Court rear wing 2" />
+    <attribute name="Position" value="-6.5 0 23.5" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Court rear wing 2.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Plaster.xml;NightMarket/Materials/Tile.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Stationers across the entry" />
+    <attribute name="Position" value="2.18 0 -1.26" />
+    <attribute name="Rotation" value="0.707107 0 0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Stationers across the entry.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Oxide.xml;NightMarket/Materials/MossTile.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Cross street at the entrance" />
+    <attribute name="Position" value="-1.84 0 -8.43" />
+    <attribute name="Rotation" value="6.12323e-17 0 -1 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Cross street at the entrance.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Plaster.xml;NightMarket/Materials/Tile.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/WindowAmber.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Herbalist zinc awning" />
+    <attribute name="Position" value="-5.47 3.17 4.23" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Herbalist zinc awning.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/HoneyTube.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Repair shop red canopy" />
+    <attribute name="Position" value="-5.5 2.36 8.11" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Repair shop red canopy.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Ruby.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Tea room ochre awning" />
+    <attribute name="Position" value="1.08 2.84 6.15" />
+    <attribute name="Rotation" value="0.707107 0 0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Tea room ochre awning.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Mustard.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Wood.xml;NightMarket/Materials/HoneyTube.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Tinned tea advertisement" />
+    <attribute name="Position" value="-5.18 3.76 3.74" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Tinned tea advertisement.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Ruby.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Billboard.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Iron.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Mint counter sign" />
+    <attribute name="Position" value="-5.32 2.4 5.06" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Mint counter sign.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Pharmacy.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Iron.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Projecting mint sign" />
+    <attribute name="Position" value="-5.03 2.52 6.18" />
+    <attribute name="Rotation" value="0.990268 0 -0.139173 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Projecting mint sign.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Patina.xml;NightMarket/Materials/Pharmacy.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Iron.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Coffee blade" />
+    <attribute name="Position" value="-4.92 4.15 6.17" />
+    <attribute name="Rotation" value="0.979925 0 -0.199368 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Coffee blade.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Rust.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Menu.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Iron.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Cinema CRT" />
+    <attribute name="Position" value="-2.03 3.67 14.01" />
+    <attribute name="Rotation" value="0.990268 0 -0.139173 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Cinema CRT.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Teal.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Cinema.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Iron.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Foreground lightbox" />
+    <attribute name="Position" value="-4.46 3.39 2.96" />
+    <attribute name="Rotation" value="0.99863 0 -0.052336 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Foreground lightbox.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Mustard.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Pharmacy.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Iron.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Right hanging menu" />
+    <attribute name="Position" value="0.53 3.58 4.95" />
+    <attribute name="Rotation" value="0.999391 0 -0.0348995 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Right hanging menu.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Rust.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Menu.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Iron.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Circular tea house marquee" />
+    <attribute name="Position" value="0.43 2.05 3.36" />
+    <attribute name="Rotation" value="0.981627 0 -0.190809 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Circular tea house marquee.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Ruby.xml;NightMarket/Materials/Mustard.xml;NightMarket/Materials/Marquee.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="No parking post" />
+    <attribute name="Position" value="-4.13 0.24 2.72" />
+    <attribute name="Rotation" value="0.995396 0 -0.0958458 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/No parking post.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Patina.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Parking.xml;NightMarket/Materials/Zinc.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Red workshop facade" />
+    <attribute name="Position" value="-4.72 0 9.92" />
+    <attribute name="Rotation" value="0.991445 0 -0.130526 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Red workshop facade.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Oxide.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Notice.xml;NightMarket/Materials/Rubber.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Noodle shop neon" />
+    <attribute name="Position" value="-5 1.905 9.7" />
+    <attribute name="Rotation" value="0.991294 0.002278 -0.130506 -0.0173031" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Noodle shop neon.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/SignRed.xml;NightMarket/Materials/Ruby.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Noodle.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Rubber.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Bent arrow neon" />
+    <attribute name="Position" value="-4.53 3.17 9.57" />
+    <attribute name="Rotation" value="0.987688 0 -0.156434 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Bent arrow neon.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/SignChannel.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Ruby.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/ArrowAmber.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Paper lightbox" />
+    <attribute name="Position" value="-5.22 0.12 6.965" />
+    <attribute name="Rotation" value="0.798636 0 -0.601815 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Paper lightbox.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Ruby.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Rice.xml;NightMarket/Materials/IvoryEnamel.xml;NightMarket/Materials/PaperGlow.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Outside fluorescent fittings" />
+    <attribute name="Position" value="-5.4 2.1 5.21" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Outside fluorescent fittings.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/MilkTube.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/IvoryEnamel.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Turquoise barber pole" />
+    <attribute name="Position" value="0.85 2.46 6.18" />
+    <attribute name="Rotation" value="0.707107 0 0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Turquoise barber pole.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Patina.xml;NightMarket/Materials/AquaTube.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/MilkTube.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Boiler house return" />
+    <attribute name="Position" value="-4.09 0 10.09" />
+    <attribute name="Rotation" value="0.665882 0 -0.746057 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Boiler house return.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Plaster.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rubber.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Recessed lamp repair booth" />
+    <attribute name="Position" value="-4.09 0 10.09" />
+    <attribute name="Rotation" value="0.665882 0 -0.746057 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Recessed lamp repair booth.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Plaster.xml;NightMarket/Materials/Tile.xml;NightMarket/Materials/Soot.xml;NightMarket/Materials/Curb.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Shutter.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Notice.xml;NightMarket/Materials/Wood.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Passage canvas awning" />
+    <attribute name="Position" value="-4.09 0 10.09" />
+    <attribute name="Rotation" value="0.665882 0 -0.746057 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Passage canvas awning.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Canvas.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/IvoryEnamel.xml;NightMarket/Materials/AquaTube.xml;NightMarket/Materials/MilkTube.xml;NightMarket/Materials/Mustard.xml;NightMarket/Materials/District.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="District hanging sign" />
+    <attribute name="Position" value="-3.83827 5.43 10.7427" />
+    <attribute name="Rotation" value="0.998392 0 -0.0566928 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/District hanging sign.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Mustard.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Blade.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Condenser 01" />
+    <attribute name="Position" value="-5.25 2.55 5.9" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Condenser 01.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Condenser 02" />
+    <attribute name="Position" value="-5.29 3 7.87" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Condenser 02.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Condenser 03" />
+    <attribute name="Position" value="-5.33 3.04 8.78" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Condenser 03.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Condenser 04" />
+    <attribute name="Position" value="-4.63 4.78 10.17" />
+    <attribute name="Rotation" value="0.986286 0 -0.165048 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Condenser 04.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Condenser 05" />
+    <attribute name="Position" value="-4.63 5.67 10.17" />
+    <attribute name="Rotation" value="0.986286 0 -0.165048 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Condenser 05.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Condenser 06" />
+    <attribute name="Position" value="-4.63 6.59 10.17" />
+    <attribute name="Rotation" value="0.986286 0 -0.165048 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Condenser 06.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Condenser 07" />
+    <attribute name="Position" value="-3.57 3.43 13.72" />
+    <attribute name="Rotation" value="0.989016 0 -0.147809 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Condenser 07.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Condenser 08" />
+    <attribute name="Position" value="-3.54 4.21 13.72" />
+    <attribute name="Rotation" value="0.989016 0 -0.147809 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Condenser 08.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Condenser 09" />
+    <attribute name="Position" value="0.91 4.02 8.4" />
+    <attribute name="Rotation" value="0.707107 0 0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Condenser 09.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Industrial service risers" />
+    <attribute name="Position" value="0.84 0 4.35" />
+    <attribute name="Rotation" value="0.707107 0 0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Industrial service risers.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Overhead supply and comms" />
+    <attribute name="Position" value="0 0 0" />
+    <attribute name="Rotation" value="1 0 -0 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Overhead supply and comms.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Festival lantern string" />
+    <attribute name="Position" value="0 0 0" />
+    <attribute name="Rotation" value="1 0 -0 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Festival lantern string.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Lampion.xml;NightMarket/Materials/Mustard.xml;NightMarket/Materials/Ruby.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Chesterfield settee" />
+    <attribute name="Position" value="-4.95 0.118 3.84" />
+    <attribute name="Rotation" value="0.782608 0 -0.622515 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Chesterfield settee.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Leather.xml;NightMarket/Materials/Wood.xml;NightMarket/Materials/Mustard.xml;NightMarket/Materials/Velvet.xml;NightMarket/Materials/Teal.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Cinema.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Ruby.xml;NightMarket/Materials/Rubber.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Herbalist plant rack" />
+    <attribute name="Position" value="-5.3 0.12 3.86" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Herbalist plant rack.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Wood.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Pottery.xml;NightMarket/Materials/Foliage.xml;NightMarket/Materials/LeafTip.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Velvet.xml;NightMarket/Materials/District.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Kegs and delivery crates" />
+    <attribute name="Position" value="-5.28 0.119 6.05" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Kegs and delivery crates.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Wood.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Mustard.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Lacquer drums" />
+    <attribute name="Position" value="-3.8 0.02 10.66" />
+    <attribute name="Rotation" value="0.991445 0 -0.130526 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Lacquer drums.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Mustard.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Bent tea house handrail" />
+    <attribute name="Position" value="0.02 0.117 3.27" />
+    <attribute name="Rotation" value="1 0 -0 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Bent tea house handrail.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Iron.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Mustard.xml;NightMarket/Materials/District.xml;NightMarket/Materials/Zinc.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Folding repair trestle" />
+    <attribute name="Position" value="-0.29 0.004 2.92" />
+    <attribute name="Rotation" value="0.898794 0 0.438371 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Folding repair trestle.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Wood.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Zinc.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Discarded drink tins" />
+    <attribute name="Position" value="-0.78 0.002 4.53" />
+    <attribute name="Rotation" value="0.994522 0 0.104528 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Discarded drink tins.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Rust.xml;NightMarket/Materials/Patina.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Glass bottle" />
+    <attribute name="Position" value="-3.58 0.004 2.55" />
+    <attribute name="Rotation" value="0.95882 0 -0.284015 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Glass bottle.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Glass.xml;NightMarket/Materials/Ruby.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Electric delivery moped" />
+    <attribute name="Position" value="-0.41 0.12 11.2" />
+    <attribute name="Rotation" value="0.956305 0 0.292372 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Electric delivery moped.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Teal.xml;NightMarket/Materials/Mustard.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Entrance sign mast" />
+    <attribute name="Position" value="-1.71 0 0.935" />
+    <attribute name="Rotation" value="0.994522 0 -0.104528 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Entrance sign mast.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Iron.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Teal.xml;NightMarket/Materials/Blade.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/AquaTube.xml;NightMarket/Materials/MilkTube.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Loading plates" />
+    <attribute name="Position" value="-4.46 0 5.98" />
+    <attribute name="Rotation" value="1 0 -0 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Loading plates.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Patina.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Zinc.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Tea room counter and crockery" />
+    <attribute name="Position" value="1.14 0.15 6.9" />
+    <attribute name="Rotation" value="0.707107 0 0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Tea room counter and crockery.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Wood.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Celadon.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Teal.xml;NightMarket/Materials/Tile.xml;NightMarket/Materials/Pottery.xml;NightMarket/Materials/Glass.xml;NightMarket/Materials/HoneyTube.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Service sacks" />
+    <attribute name="Position" value="0.11 0.117 9.39" />
+    <attribute name="Rotation" value="0.989016 0 -0.147809 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Service sacks.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Rubber.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Upper storefront catwalk" />
+    <attribute name="Position" value="-5.58 4.03 6.8" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Upper storefront catwalk.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Iron.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/IvoryEnamel.xml;NightMarket/Materials/HoneyTube.xml;NightMarket/Materials/Patina.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Cinema grille and orange conduit" />
+    <attribute name="Position" value="-2.03 3.67 14.01" />
+    <attribute name="Rotation" value="0.990268 0 -0.139173 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Cinema grille and orange conduit.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Iron.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Grimy delivery drums" />
+    <attribute name="Position" value="-5.22 0.12 2.6" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Grimy delivery drums.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Rust.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Boiler flue and service tower" />
+    <attribute name="Position" value="-4.7 4.02 10.49" />
+    <attribute name="Rotation" value="0.986286 0 -0.165048 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Boiler flue and service tower.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Soot.xml;NightMarket/Materials/Rust.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Zinc.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Dispensary wirework" />
+    <attribute name="Position" value="-5.32 0.12 3.85" />
+    <attribute name="Rotation" value="0.707107 0 -0.707107 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Dispensary wirework.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Rust.xml;NightMarket/Materials/Zinc.xml;NightMarket/Materials/Patina.xml;NightMarket/Materials/Iron.xml;NightMarket/Materials/Celadon.xml" />
+    </component>
+  </node>
+  <node>
+    <attribute name="Name" value="Patched water main trench" />
+    <attribute name="Position" value="0 0 0" />
+    <attribute name="Rotation" value="1 0 -0 0" />
+    <component type="StaticModel">
+      <attribute name="Model" value="Model;NightMarket/Meshes/Patched water main trench.mdl" />
+      <attribute name="Cast Shadows" value="true" />
+      <attribute name="Material" value="Material;NightMarket/Materials/Sealcoat.xml;NightMarket/Materials/Tarmac.xml" />
+    </component>
+  </node>
+</node>
